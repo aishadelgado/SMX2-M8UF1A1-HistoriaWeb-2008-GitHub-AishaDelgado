@@ -36,6 +36,7 @@ Aquí dejo un vídeo para explicar mejor qué es GitHub y para qué sirve o como
 
 > [!NOTE]
 > Para poder entrar en el vídeo insertado, deberás darle click a la foto puesta justo encima de esta nota.
+>
 
 <div id='id2' />
 
