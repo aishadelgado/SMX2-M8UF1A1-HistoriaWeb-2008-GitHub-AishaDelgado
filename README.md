@@ -34,9 +34,9 @@ Aquí dejo un vídeo para explicar mejor qué es GitHub y para qué sirve o como
 
 [![Vídeo explicativo](https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2008-GitHub-AishaDelgado/blob/main/images.png)](https://www.youtube.com/watch?v=44ziZ12rJwU "Vídeo explicativo")
 
-<div style="background: blue; padding: 10px;">
-<p><strong>Nota:</strong>Para poder entrar en el vídeo insertado, deberás darle click a la foto puesta justo encima de esta nota.</p>
-</div>
+> **Nota**
+Para poder entrar en el vídeo insertado, deberás darle click a la foto puesta justo encima de esta nota.
+
 
 <div id='id2' />
 
