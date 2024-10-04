@@ -34,7 +34,7 @@ Aquí dejo un vídeo para explicar mejor qué es GitHub y para qué sirve o como
 
 [![Vídeo explicativo](https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2008-GitHub-AishaDelgado/blob/main/images.png)](https://www.youtube.com/watch?v=44ziZ12rJwU "Vídeo explicativo")
 
-> **Nota**
+> **Nota:**
 Para poder entrar en el vídeo insertado, deberás darle click a la foto puesta justo encima de esta nota.
 
 
@@ -58,4 +58,15 @@ Git proporciona herramientas que **facilitan** siempre el desarrollo del código
 <div id='id3' />
 
 ### Ventajas de Github
+---
 
+Estas son algunas de las ventajas que trae consigo Github y que por eso mismo, y muchas otras razones, Github es una gran opción para el **control** y **gestión** de proyectos de código, tanto individual como en grupo.
+- La gran parte de cosas es de **forma _gratuita_**, empezando por lo más importante, colocar proyectos en repositorios.
+- Github permite poner los proyectos en formato **privado**, pues los repositorios por defecto son **públicos**.
+- Compartir proyectos con Github es mucho más fácil gracias a las herramientas que tiene.
+- **Permite colaborar con otras personas**; para mejorar los proyectos de otros y que otros mejoren o aporten algo a tu propio proyecto.
+- Trae consigo algunas herramientas que facilitan su uso, como lo pueden ser: **Github Copilot** o **Github Pages**.
+
+<p align="center">
+<img src="https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2008-GitHub-AishaDelgado/blob/main/github.png" width="50%">
+</p>
