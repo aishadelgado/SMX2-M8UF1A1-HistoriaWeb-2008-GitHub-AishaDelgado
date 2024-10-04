@@ -19,6 +19,7 @@ Git es parte de la distribución que utiliza Github, pues esta plataforma está 
 <div id='id1' />
 
 ### ¿Cómo funciona GitHub?
+---
 
 Github permite subir repositorios de cógido para que sean almacenados en la nube a través del sistema de control de Git. Con Github eres capaz de almacenar, compartir y trabajar junto a otras personas para escribir código.
 
@@ -32,4 +33,28 @@ Almacenar un código en un **_repositorio_** en Github sirve para:
 Aquí dejo un vídeo para explicar mejor qué es GitHub y para qué sirve o como funciona:
 
 [![Vídeo explicativo](https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2008-GitHub-AishaDelgado/blob/main/images.png)](https://www.youtube.com/watch?v=44ziZ12rJwU "Vídeo explicativo")
+
+> [!AVAILABILITY]
+> Para poder entrar en el vídeo, deberás darle click a la foto puesta.
+
+<div id='id2' />
+
+### ¿Qué es Git?
+---
+
+Git, a día de hoy, es el sistema de control de versiones **más moderno y popular del _mundo_**. Es especialmente útil cuando un grupo de personas están haciendo cambios en los mismos archivos al mismo tiempo.
+
+<p align="center">
+<img src="https://github.com/aishadelgado/SMX2-M8UF1A1-HistoriaWeb-2008-GitHub-AishaDelgado/blob/main/git.png" width="50%">
+</p>
+
+Git proporciona herramientas que **facilitan** siempre el desarrollo del código entre un equipo, de manera rápida e inteligente. Además, gracias a Git, se puede comparar cada cambio realizado a lo largo del tiempo, con estas comparaciones se puede conseguir:
+
+- **Ver** quién ha modificado algo en el código.
+- **Saber** en qué momento se hizo un cambio que creó un error en el código.
+- **Facilitar** la opción de revertir cualquier problema o error.
+
+<div id='id3' />
+
+### Ventajas de Github
 
